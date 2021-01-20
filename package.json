@@ -1,0 +1,22 @@
+{
+  "name": "bcryptdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seb2026/bcrypt-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seb2026/bcrypt-practice/issues"
+  },
+  "homepage": "https://github.com/Seb2026/bcrypt-practice#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
